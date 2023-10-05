@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 
-function AddAssignment(props) { 
+function DeleteAssignment(props) { 
 
 
   return (
@@ -10,4 +10,4 @@ function AddAssignment(props) {
   ); 
 }
 
-export default AddAssignment;
+export default DeleteAssignment;
