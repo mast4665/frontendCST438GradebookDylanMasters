@@ -6,6 +6,7 @@ function DeleteAssignment(props) {
 
   return (
       <div>
+        
       </div>
   ); 
 }
